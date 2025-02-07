@@ -1,0 +1,5 @@
+# ایجاد ریپازتوری در فولدر
+git init
+
+git config --global user.name Saeid
+git config --global user.email saeid.barati.t3@gmail.com
